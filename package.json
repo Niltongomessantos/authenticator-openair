@@ -1,0 +1,21 @@
+{
+  "name": "authenticator-openair",
+  "version": "1.1.0",
+  "description": "Software used to login in Openair via API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Authenticator"
+  },
+  "keywords": [
+    "Openair"
+  ],
+  "author": "Nilton",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.3.5"
+  }
+}
